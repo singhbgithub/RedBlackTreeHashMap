@@ -8,6 +8,7 @@ import java.util.NoSuchElementException;
  * improving performance by implementing red-black trees
  * @author Clinger
  * @author Schmidt
+ * @author Singh (modifications)
  */
 public class TestFMap {
 
